@@ -1,2 +1,2 @@
 # TREBLE
-# Time REsolved BehavioraL Embedding
+(Time REsolved BehavioraL Embedding)
